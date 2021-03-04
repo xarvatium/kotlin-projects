@@ -1,1 +1,2 @@
-# kotlin-projects
+# My Kotlin Experience
+Hi there, I'm Xarvatium and this is my repository for messing around in Kotlin. I'm using the IDEA IDE from JetBrains in order to run my programs, but there's obviously other options. Hope you enjoy!
